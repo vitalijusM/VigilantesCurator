@@ -1,0 +1,11 @@
+C:\Users\s-sps\Documents\Visual Studio 2012\Projects\Poopin\Poopin\bin\Debug\Poopin.exe.config
+C:\Users\s-sps\Documents\Visual Studio 2012\Projects\Poopin\Poopin\bin\Debug\Poopin.exe
+C:\Users\s-sps\Documents\Visual Studio 2012\Projects\Poopin\Poopin\bin\Debug\Poopin.pdb
+C:\Users\s-sps\Documents\Visual Studio 2012\Projects\Poopin\Poopin\obj\Debug\Poopin.Parser.csprojResolveAssemblyReference.cache
+C:\Users\s-sps\Documents\Visual Studio 2012\Projects\Poopin\Poopin\obj\Debug\Poopin.Properties.Resources.resources
+C:\Users\s-sps\Documents\Visual Studio 2012\Projects\Poopin\Poopin\obj\Debug\Poopin.Parser.csproj.GenerateResource.Cache
+C:\Users\s-sps\Documents\Visual Studio 2012\Projects\Poopin\Poopin\obj\Debug\Poopin.exe
+C:\Users\s-sps\Documents\Visual Studio 2012\Projects\Poopin\Poopin\obj\Debug\Poopin.pdb
+C:\Users\s-sps\Documents\Visual Studio 2012\Projects\Poopin\Poopin\bin\Debug\HtmlAgilityPack.dll
+C:\Users\s-sps\Documents\Visual Studio 2012\Projects\Poopin\Poopin\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\s-sps\Documents\Visual Studio 2012\Projects\Poopin\Poopin\bin\Debug\HtmlAgilityPack.xml
